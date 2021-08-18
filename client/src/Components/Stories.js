@@ -26,7 +26,7 @@ padding:3%;
 border: none;
 color:white;
 `
-
+ 
 const Paragraph=styled.p`
 color:rgb(107,107,107);
 font-size:20px;

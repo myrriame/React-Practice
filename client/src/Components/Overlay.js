@@ -11,7 +11,7 @@ padding: 180px 0px;
 text-align: center;
 top: 55%;
 left: 50%;`
-
+ 
 
 const Button=styled.button`
 background-color:rgb(218,121,67);

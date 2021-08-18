@@ -15,7 +15,7 @@ font-weight: lighter;
 display: inline-block;
     width: 50%;
     padding:2%`
-
+ 
 
 const Button=styled.button`
 background-color:rgb(218,121,67);

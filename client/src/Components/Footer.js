@@ -38,7 +38,7 @@ margin:1%`
 
 const Footers=styled.h5`
 text-align:center;`
-
+ 
 function Footer() {
     return (
         <>

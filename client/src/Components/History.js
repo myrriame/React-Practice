@@ -13,7 +13,7 @@ font-weight:bold;
 text-align:center;
 padding:2%
 `
-
+ 
 const Button=styled.button`
 background-color:rgb(218,121,67);
 padding:1%;

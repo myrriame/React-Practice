@@ -15,7 +15,7 @@ padding-left: 11%;
 padding-right: 11%;
 font-weight: lighter;
 `
-
+ 
 const Images=styled.img`
 width:80%`
 

@@ -25,7 +25,7 @@ const Overlayed=styled.div`
 position:absolute; 
 z-index:3;
 color:white;`
-
+ 
 function Video() {
     return (
         <>
