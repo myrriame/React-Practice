@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+// import { Link, animateScroll as scroll } from "react-scroll";
 
 const Stuff=styled.div`
 
@@ -11,9 +12,9 @@ padding: 180px 0px;
 text-align: center;
 top: 55%;
 left: 50%;`
- 
 
-const Button=styled.button`
+
+const Buttons=styled.button`
 background-color:rgb(218,121,67);
 padding:1%;
 border: none;
@@ -30,8 +31,8 @@ function Overlay() {
             <Stuff>
                 <h1>LIGHT. HOPE. TRANSFORMATION.</h1>
                 <br></br> <p>City of Refuge is a faith-based environment that helps individuals and families transition out of crisis. </p>
-                <br></br> <Center> <Button>WATCH VIDEO</Button></Center>
-                <br></br>  <Center><Button>DONATE</Button></Center>
+                <br></br> <Center> <Buttons>WATCH VIDEO</Buttons></Center>
+                <br></br>  <Center><Buttons>DONATE</Buttons></Center>
 
                 <br></br><p>SCROLL</p><br></br><p>V</p>
             </Stuff>

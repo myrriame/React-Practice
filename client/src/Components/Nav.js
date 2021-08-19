@@ -19,7 +19,7 @@ padding-left: 2%;
 display: inline-block;
   vertical-align: middle;
 `
- 
+
 const Span=styled.span`
 padding-left: 15%;`
 
